@@ -7,5 +7,6 @@
 ![Alt text](Results/MNIST_Benchmarking.png)
 
 # Training Results 
-![Alt text](Results/Accuracy_SpeedyLiteVision Network_MNIST.png)
+
+![Alt text](Results/Accuracy_SpeedyLiteVision Network_MNIST.png.png)
 ![Alt text](Results/Loss_SpeedyLiteVision Network-MNIST.png)
