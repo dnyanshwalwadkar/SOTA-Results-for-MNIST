@@ -1,8 +1,8 @@
-# SOTA-Results-for-MNIST
+# SOTA-Results-for-SpeedyLiteVision Network
 
 # Benchmarking againest best models 
 
-## My Model is best smaller model in benchmarking. 
+## My Model is best smaller model in benchmarking for MNIST. 
 ![Alt text](Results/MNIST_Benchmarking.png)
 
 # Training Results 
